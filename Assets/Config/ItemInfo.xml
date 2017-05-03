@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<item id="creichLeaf" name="克雷茨树叶" type="magic" power="5" spriteName="itemSprite_creich-leaf" explain="生长在肯特山中的神秘树叶，可增加魔力."/>
+  <item id="creichLargeLeaf" name="克莱斯特树叶" type="magic" power="18" spriteName="itemSprite_creichLargeLeaf" explain="使用克雷茨树叶合成而来，食用后可使魔力增加."/>
+  <item id="RuaLeaf" name="鲁阿叶" type="material" power="0" spriteName="itemSprite_ruaLeaf" explain="魔法材料，散发淡淡肉香的食用性叶子."/>
+  <item id="rabitMeat" name="兔肉" type="hp" power="15" spriteName="itemSprite_rabit-b" explain="散发腥味的兔子肉，因此建议烹饪后食用. 食用后，可使体力恢复."/>
+  <item id="rabitMeat2" name="鲁阿肉" type="maxHp" power="2" spriteName="itemSprite_rabitMeat" explain="使用鲁阿叶制作的兔肉，没有异味，看上去非常好吃. 食用后，可使最大体力增加."/>
+  <item id="driedLeaf" name="干燥的叶子" type="material" power="0" spriteName="itemSprite_leaf-a" explain="可以迅速燃烧的干燥树叶."/>
+  <item id="magicStone" name="初级魔法石板" type="material" power="0" spriteName="itemSprite_rock-a" explain="可注入魔力的平面型魔法石."/>
+</root>

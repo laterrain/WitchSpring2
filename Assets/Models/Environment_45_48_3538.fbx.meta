@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 48c3333bcec6ab84485e7ce4eedd1034
+timeCreated: 1488762778
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 HeadNub
+    100006: Bip001 L Calf
+    100008: Bip001 L Clavicle
+    100010: Bip001 L Finger0
+    100012: Bip001 L Finger01
+    100014: Bip001 L Finger0Nub
+    100016: Bip001 L Finger1
+    100018: Bip001 L Finger11
+    100020: Bip001 L Finger1Nub
+    100022: Bip001 L Foot
+    100024: Bip001 L Forearm
+    100026: Bip001 L Hand
+    100028: Bip001 L Thigh
+    100030: Bip001 L Toe0
+    100032: Bip001 L Toe0Nub
+    100034: Bip001 L UpperArm
+    100036: Bip001 Neck
+    100038: Bip001 Pelvis
+    100040: Bip001 R Calf
+    100042: Bip001 R Clavicle
+    100044: Bip001 R Finger0
+    100046: Bip001 R Finger01
+    100048: Bip001 R Finger0Nub
+    100050: Bip001 R Finger1
+    100052: Bip001 R Finger11
+    100054: Bip001 R Finger1Nub
+    100056: Bip001 R Foot
+    100058: Bip001 R Forearm
+    100060: Bip001 R Hand
+    100062: Bip001 R Thigh
+    100064: Bip001 R Toe0
+    100066: Bip001 R Toe0Nub
+    100068: Bip001 R UpperArm
+    100070: Bip001 Spine
+    100072: Bip001 Spine1
+    100074: Bip001 Spine2
+    100076: Bip001 Spine3
+    100078: blueNight
+    100080: body
+    100082: Bone_backHair_0
+    100084: Bone_backHair_1
+    100086: Bone_backHair_2
+    100088: Bone_frontHair
+    100090: Bone_leftEar_0
+    100092: Bone_leftEar_1
+    100094: Bone_rightEar_0
+    100096: Bone_rightEar_1
+    100098: //RootNode
+    100100: hair
+    100102: hat
+    100104: head
+    100106: luna_obj
+    100108: mainCamera
+    100110: moonLight
+    100112: patPoint
+    100114: point_backHair
+    100116: point_frontHair
+    100118: point_leftEar
+    100120: point_leftEye
+    100122: point_leftMouth
+    100124: point_rightEar
+    100126: point_rightEye
+    100128: point_rightMouth
+    100130: point_underMouth
+    100132: point_upperMouth
+    100134: PointLight
+    100136: PointLight (1)
+    100138: robe
+    100140: Rock_16
+    100142: Rock_16 (1)
+    100144: Rock_16 (10)
+    100146: Rock_16 (11)
+    100148: Rock_16 (12)
+    100150: Rock_16 (13)
+    100152: Rock_16 (14)
+    100154: Rock_16 (15)
+    100156: Rock_16 (16)
+    100158: Rock_16 (17)
+    100160: Rock_16 (18)
+    100162: Rock_16 (19)
+    100164: Rock_16 (2)
+    100166: Rock_16 (20)
+    100168: Rock_16 (21)
+    100170: Rock_16 (22)
+    100172: Rock_16 (23)
+    100174: Rock_16 (24)
+    100176: Rock_16 (25)
+    100178: Rock_16 (3)
+    100180: Rock_16 (4)
+    100182: Rock_16 (5)
+    100184: Rock_16 (6)
+    100186: Rock_16 (7)
+    100188: Rock_16 (8)
+    100190: Rock_16 (9)
+    100192: shadow
+    100194: stick
+    100196: talkPosition
+    100198: touchArea
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 HeadNub
+    400006: Bip001 L Calf
+    400008: Bip001 L Clavicle
+    400010: Bip001 L Finger0
+    400012: Bip001 L Finger01
+    400014: Bip001 L Finger0Nub
+    400016: Bip001 L Finger1
+    400018: Bip001 L Finger11
+    400020: Bip001 L Finger1Nub
+    400022: Bip001 L Foot
+    400024: Bip001 L Forearm
+    400026: Bip001 L Hand
+    400028: Bip001 L Thigh
+    400030: Bip001 L Toe0
+    400032: Bip001 L Toe0Nub
+    400034: Bip001 L UpperArm
+    400036: Bip001 Neck
+    400038: Bip001 Pelvis
+    400040: Bip001 R Calf
+    400042: Bip001 R Clavicle
+    400044: Bip001 R Finger0
+    400046: Bip001 R Finger01
+    400048: Bip001 R Finger0Nub
+    400050: Bip001 R Finger1
+    400052: Bip001 R Finger11
+    400054: Bip001 R Finger1Nub
+    400056: Bip001 R Foot
+    400058: Bip001 R Forearm
+    400060: Bip001 R Hand
+    400062: Bip001 R Thigh
+    400064: Bip001 R Toe0
+    400066: Bip001 R Toe0Nub
+    400068: Bip001 R UpperArm
+    400070: Bip001 Spine
+    400072: Bip001 Spine1
+    400074: Bip001 Spine2
+    400076: Bip001 Spine3
+    400078: blueNight
+    400080: body
+    400082: Bone_backHair_0
+    400084: Bone_backHair_1
+    400086: Bone_backHair_2
+    400088: Bone_frontHair
+    400090: Bone_leftEar_0
+    400092: Bone_leftEar_1
+    400094: Bone_rightEar_0
+    400096: Bone_rightEar_1
+    400098: //RootNode
+    400100: hair
+    400102: hat
+    400104: head
+    400106: luna_obj
+    400108: mainCamera
+    400110: moonLight
+    400112: patPoint
+    400114: point_backHair
+    400116: point_frontHair
+    400118: point_leftEar
+    400120: point_leftEye
+    400122: point_leftMouth
+    400124: point_rightEar
+    400126: point_rightEye
+    400128: point_rightMouth
+    400130: point_underMouth
+    400132: point_upperMouth
+    400134: PointLight
+    400136: PointLight (1)
+    400138: robe
+    400140: Rock_16
+    400142: Rock_16 (1)
+    400144: Rock_16 (10)
+    400146: Rock_16 (11)
+    400148: Rock_16 (12)
+    400150: Rock_16 (13)
+    400152: Rock_16 (14)
+    400154: Rock_16 (15)
+    400156: Rock_16 (16)
+    400158: Rock_16 (17)
+    400160: Rock_16 (18)
+    400162: Rock_16 (19)
+    400164: Rock_16 (2)
+    400166: Rock_16 (20)
+    400168: Rock_16 (21)
+    400170: Rock_16 (22)
+    400172: Rock_16 (23)
+    400174: Rock_16 (24)
+    400176: Rock_16 (25)
+    400178: Rock_16 (3)
+    400180: Rock_16 (4)
+    400182: Rock_16 (5)
+    400184: Rock_16 (6)
+    400186: Rock_16 (7)
+    400188: Rock_16 (8)
+    400190: Rock_16 (9)
+    400192: shadow
+    400194: stick
+    400196: talkPosition
+    400198: touchArea
+    2300000: Rock_16
+    2300002: Rock_16 (1)
+    2300004: Rock_16 (10)
+    2300006: Rock_16 (11)
+    2300008: Rock_16 (12)
+    2300010: Rock_16 (13)
+    2300012: Rock_16 (14)
+    2300014: Rock_16 (15)
+    2300016: Rock_16 (16)
+    2300018: Rock_16 (17)
+    2300020: Rock_16 (18)
+    2300022: Rock_16 (19)
+    2300024: Rock_16 (2)
+    2300026: Rock_16 (20)
+    2300028: Rock_16 (21)
+    2300030: Rock_16 (22)
+    2300032: Rock_16 (23)
+    2300034: Rock_16 (24)
+    2300036: Rock_16 (25)
+    2300038: Rock_16 (3)
+    2300040: Rock_16 (4)
+    2300042: Rock_16 (5)
+    2300044: Rock_16 (6)
+    2300046: Rock_16 (7)
+    2300048: Rock_16 (8)
+    2300050: Rock_16 (9)
+    2300052: stick
+    3300000: Rock_16
+    3300002: Rock_16 (1)
+    3300004: Rock_16 (10)
+    3300006: Rock_16 (11)
+    3300008: Rock_16 (12)
+    3300010: Rock_16 (13)
+    3300012: Rock_16 (14)
+    3300014: Rock_16 (15)
+    3300016: Rock_16 (16)
+    3300018: Rock_16 (17)
+    3300020: Rock_16 (18)
+    3300022: Rock_16 (19)
+    3300024: Rock_16 (2)
+    3300026: Rock_16 (20)
+    3300028: Rock_16 (21)
+    3300030: Rock_16 (22)
+    3300032: Rock_16 (23)
+    3300034: Rock_16 (24)
+    3300036: Rock_16 (25)
+    3300038: Rock_16 (3)
+    3300040: Rock_16 (4)
+    3300042: Rock_16 (5)
+    3300044: Rock_16 (6)
+    3300046: Rock_16 (7)
+    3300048: Rock_16 (8)
+    3300050: Rock_16 (9)
+    3300052: stick
+    4300000: Rock_16 (21)
+    4300002: head
+    4300004: hair
+    4300006: robe
+    4300008: stick
+    4300010: body
+    4300012: hat
+    9500000: //RootNode
+    13700000: body
+    13700002: hair
+    13700004: hat
+    13700006: head
+    13700008: robe
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

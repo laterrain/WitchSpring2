@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<magic id="m#innc3f" name="三球火焰柱魔法阵" power="1.2" needMp="20" type="damage" explain="召唤火柱在指定位置上发动的基础火焰魔法." />
+  <magic id="m#innc1r" name="治愈魔法阵" power="1.2" needMp="15" type="health" explain="以消耗法力为代价，获得体力恢复的恢复魔法阵." />
+  <magic id="m#innc1n" name="魔力压缩魔法阵" power="1" needMp="15" type="damage" explain="定点聚集少量魔力后，转换成小型爆炸的基础魔法." />
+</root>

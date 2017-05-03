@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<character ID="luna" name="露娜" hp="65" maxHp="65" sp="80" maxSp="80" str="16" magic="30" Def="0" agile="6"/>
+</root>

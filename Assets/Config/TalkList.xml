@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <Item motherEventName="튜토리얼 이벤트-1" talkID="159" name="luna" emotion="crisis" talkText="呜呜... 天天只能吃到蜥蜴，快要吐了..." eventNum="6" />
+  <Item motherEventName="튜토리얼 이벤트-1" talkID="160" name="luna" emotion="sad" talkText="而且量也不多....好饿哦！！" eventNum="7" />
+  <Item motherEventName="튜토리얼 이벤트-1" talkID="161" name="luna" emotion="sad" talkText="... ..." eventNum="8" />
+  <Item motherEventName="튜토리얼 이벤트-1" talkID="162" name="luna" emotion="chch" talkText="肉... 我需要吃肉！" eventNum="9" />
+  <Item motherEventName="튜토리얼-아이템을 합성하자!" talkID="181" name="luna" emotion="normal" talkText="幸亏勇士们还没跑到这里，可以大胆抓兔子的日子真是棒棒的！" eventNum="2" />
+  <Item motherEventName="튜토리얼-아이템을 합성하자!" talkID="182" name="luna" emotion="smile" talkText="那开始做一下鲁阿肉吧！好久没做了，我的料理功夫也生疏了哩！" eventNum="3" />
+  <Item motherEventName="새 이벤트" talkID="183" name="luna" emotion="none" talkText="料理成功！久违了！吃肉的感觉真棒...！嘻嘻！！" eventNum="0" />
+  <Item motherEventName="튜토리얼-루아렛을 먹어보자" talkID="184" name="luna" emotion="none" talkText="那开始尝尝美食吧！?" eventNum="1" />
+  <Item motherEventName="튜토리얼-살찌니까 운동하자!" talkID="185" name="luna" emotion="angryChch" talkText="啊.. 好吃！真饱！完蛋了！太久没这样大吃大喝了." eventNum="7" />
+
+</root>

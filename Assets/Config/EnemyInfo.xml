@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<enemy enemyID="goblinWarrior" name="哥布林勇士" hp="100" atk="12" sp="0" aDef="0" mDef="0" lostItem="magicStone" explain="居住在肯特山腰中的哥布林.身上携带的石头，可用作初级魔法石板." />
+	<enemy enemyID="orcWarrior" name="兽人勇士" hp="100" atk="15" sp="0" aDef="0" mDef="0" lostItem="creichLeaf" explain="居住在肯特山中的兽人，总是怒气冲冲." />
+	<enemy enemyID="goblinGuard" name="哥布林守卫" hp="40" atk="12" sp="0" aDef="0" mDef="0" lostItem="rabitMeat" explain="肯特山土生哥布林，经常攻击人，人们都不太敢爬肯特山." />
+</root>
