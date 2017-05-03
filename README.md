@@ -1,8 +1,8 @@
 # WitchSpring2s
 a RPG game depend on Unity3D
 
-<img src="document/image/start.png" alt="gamestart" />
+<img src="start.png" alt="game start" />
 <br>
-<img src="document/image/story.png" alt="gamestory" />
+<img src="story.png" alt="game story" />
 <br>
-<img src="document/image/fight.png" alt="gamesfight" />
+<img src="fight.png" alt="game fight" />
